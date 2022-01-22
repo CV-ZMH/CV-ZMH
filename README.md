@@ -1,6 +1,6 @@
 ### 👋Hi there.
 
-I'm Moe Htoo, a self-taught Computer Vision Engineer with 3+ years of industrial experiences and currently working at [Global Walkers](https://www.globalwalkers.co.jp/en/mmr/). I'm keen interested in building and training deep learning model from scratch with custom datasets.
+I'm Moe Htoo, a self-taught Computer Vision Engineer with 3+ years of industrial experience and currently working at [Global Walkers](https://www.globalwalkers.co.jp/en/mmr/). I'm keen interested in building and training deep learning model from scratch with custom datasets.
 
 I have also a wide experience in these areas of computer vision and audio projects:
 
