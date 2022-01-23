@@ -1,4 +1,4 @@
-### 👋Hi there,
+### 👋Hi there...
 
 I'm Moe Htoo, a self-taught Computer Vision Engineer with 3+ years of industrial experience and currently working at [Global Walkers](https://www.globalwalkers.co.jp/en/mmr/). I'm keen interested in building and training SOTA deep learning models from scratch with custom datasets.
 
