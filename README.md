@@ -14,15 +14,15 @@ I have also a wide experience in these areas of computer vision and audio projec
 * Speaker Diarization (Coming Soon)
 
 #### 🕹️ Tools
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='pytorch' src='https://img.shields.io/badge/PYTORCH-100000?style=social&logo=pytorch&logoColor=D0310D&labelColor=FFFFFF&color=FFFFFF'/></a> ' 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Onnx' src='https://img.shields.io/badge/ONNX-100000?style=social&logo=Onnx&logoColor=467928&labelColor=FFFFFF&color=FFFFFF'/></a> '
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='nvidia' src='https://img.shields.io/badge/TensorRT-100000?style=social&logo=nvidia&logoColor=4F9625&labelColor=FFFFFF&color=FFFFFF'/></a> '
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='docker' src='https://img.shields.io/badge/Docker-100000?style=social&logo=docker&logoColor=1973E0&labelColor=FFFFFF&color=FFFFFF'/></a>
+<a href='https://pytorch.org/' target="_blank"><img alt='pytorch' src='https://img.shields.io/badge/PYTORCH-100000?style=social&logo=pytorch&logoColor=D0310D&labelColor=FFFFFF&color=FFFFFF'/></a> ' 
+<a href='https://onnx.ai/' target="_blank"><img alt='Onnx' src='https://img.shields.io/badge/ONNX-100000?style=social&logo=Onnx&logoColor=467928&labelColor=FFFFFF&color=FFFFFF'/></a> '
+<a href='https://developer.nvidia.com/tensorrt' target="_blank"><img alt='nvidia' src='https://img.shields.io/badge/TensorRT-100000?style=social&logo=nvidia&logoColor=4F9625&labelColor=FFFFFF&color=FFFFFF'/></a> '
+<a href='https://www.docker.com/' target="_blank"><img alt='docker' src='https://img.shields.io/badge/Docker-100000?style=social&logo=docker&logoColor=1973E0&labelColor=FFFFFF&color=FFFFFF'/></a>
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='OpenCV' src='https://img.shields.io/badge/OpenCV-100000?style=social&logo=OpenCV&logoColor=1973E0&labelColor=FFFFFF&color=FFFFFF'/></a> '
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Numpy' src='https://img.shields.io/badge/Numpy-100000?style=social&logo=Numpy&logoColor=165ECA&labelColor=FFFFFF&color=FFFFFF'/></a> '
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Pandas' src='https://img.shields.io/badge/Pandas-100000?style=social&logo=Pandas&logoColor=3A3F45&labelColor=FFFFFF&color=FFFFFF'/></a> '
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Scikit learn' src='https://img.shields.io/badge/Scikit_Learn-100000?style=social&logo=Scikit learn&logoColor=E07D15&labelColor=FFFFFF&color=FFFFFF'/></a> 
+<a href='https://opencv.org/' target="_blank"><img alt='OpenCV' src='https://img.shields.io/badge/OpenCV-100000?style=social&logo=OpenCV&logoColor=1973E0&labelColor=FFFFFF&color=FFFFFF'/></a> '
+<a href='https://numpy.org/' target="_blank"><img alt='Numpy' src='https://img.shields.io/badge/Numpy-100000?style=social&logo=Numpy&logoColor=165ECA&labelColor=FFFFFF&color=FFFFFF'/></a> '
+<a href='https://pandas.pydata.org/' target="_blank"><img alt='Pandas' src='https://img.shields.io/badge/Pandas-100000?style=social&logo=Pandas&logoColor=3A3F45&labelColor=FFFFFF&color=FFFFFF'/></a> ' 
+<a href='https://scikit-learn.org/' target="_blank"><img alt='scikit-learn' src='https://img.shields.io/badge/Scikit_Learn-100000?style=social&logo=scikit-learn&logoColor=ED1F1F&labelColor=FDFDFD&color=FFFFFF'/></a>
  
 [![CV-ZMH's github stats](https://github-readme-stats.vercel.app/api?username=CV-ZMH&show_icons=true&theme=buefy&hide=prs,issues)](https://github.com/CV-ZMH/zmh)
 
