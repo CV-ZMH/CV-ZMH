@@ -1,6 +1,6 @@
 ### 👋Hi there...
 
-I'm Zin Moe, a self-taught Computer Vision Engineer with 4+ years of industrial experience and currently working at [ailytics](https://ailytics.ai/). I'm keen interested in building and training SOTA deep learning models from scratch with custom datasets.
+I'm Zin Moe, a self-taught Computer Vision Engineer with 4+ years of industrial experience and currently working at [Corpy&Co](https://corpy.co.jp/en). I'm keen interested in building and training SOTA deep learning models from scratch with custom datasets.
 
 I have also a wide experience in these areas of computer vision and audio projects:
 
